@@ -1,1 +1,4 @@
 this is new document..
+with http
+git@github.com:gausharma11/3rd.git
+https://github.com/gausharma11/3rd.git
